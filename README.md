@@ -1,4 +1,4 @@
 # HelloGit
 My First Repository of Github.
 <br>
-Author - Danishmeet Singh
+Author - Danishmeet Singh(CU)
